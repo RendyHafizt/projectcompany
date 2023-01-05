@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_judul">
+        <item>Rans Entertaiment</item>
+        <item>Rans Music</item>
+        <item>PowerRANSgers</item>
+        <item>Rans Animation Studio</item>
+        <item>Rans Esport</item>
+        <item>Mylk by Rafathar</item>
+        <item>Toko Mama Gigi By Nagita Slavina</item>
+        <item>Rans Carnaval Zoo</item>
+        <item>Rans Nusantara Football Club</item>
+        <item>Rans PIK Basketball</item>
+    </string-array>
+</resources>

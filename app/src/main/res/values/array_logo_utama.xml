@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="array_logo">
+        <item>@drawable/ransentertaimentlogo</item>
+        <item>@drawable/ransmusiclogo</item>
+        <item>@drawable/powerransgers</item>
+        <item>@drawable/ransanimationstudiologo</item>
+        <item>@drawable/ransesportlogo</item>
+        <item>@drawable/mylkbyrafatarlogo</item>
+        <item>@drawable/tokomamagigibynagitalogo</item>
+        <item>@drawable/ranscarnavalzoologo</item>
+        <item>@drawable/ransnusantaralogo</item>
+        <item>@drawable/ranspiklogo</item>
+    </integer-array>
+</resources>

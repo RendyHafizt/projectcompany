@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_founder_isi">
+        <!-- Raffi Ahmad -->
+        <item>
+            Raffi Farid Ahmad atau biasa dikenal dengan panggilan Raffi
+            Ahmad ini dilahirkan di Bandung, Jawa Barat pada 17 Februari 1987.
+            Ia merupakan anak sulung dari tiga bersaudara, dari pasangan almarhum
+            Munawar Ahmad yang keturunan Pakistan dengan Amy Qanita yang keturunan
+            Sunda.Kedua saudaranya bernama Syahnaz Sadiqah dan Nisya Ahmad. Raffi
+            Ahmad pernah mengatakan mengenai silsilah keluarganya bahwa ia dibesarkan
+            dalam sebuah keluarga berdarah pakistan yang diturunkan dari sang kakek.
+        </item>
+        <!-- Nagita Slavina -->
+        <item>
+            Nagita Slavina Mariana Tengker, B.Comm., atau yang dikenal
+            sebagai Nagita Slavina (lahir 17 Februari 1988) adalah seorang
+            aktris, model, presenter, produser film, pengusaha dan
+            penyanyi berkebangsaan Indonesia.
+            Nagita merupakan anak dari pasangan Gideon Tengker
+            (ayah) dan Rieta Amilia (ibu). Sang ayah berasal dari
+            Minahasa, Sulawesi Utara. Nagita mewarisi darah Minang dari
+            ibunya yang berasal dari Painan, Sumatra Barat.
+        </item>
+    </string-array>
+</resources>

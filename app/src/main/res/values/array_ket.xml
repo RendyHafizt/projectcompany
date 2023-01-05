@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_ket">
+        <item>Entertaiment</item>
+        <item>Music</item>
+        <item>Karyawan Rans</item>
+        <item>Animasi</item>
+        <item>Esport</item>
+        <item>Kidswear Brand Clothing</item>
+        <item>Toko Mama Gigi</item>
+        <item>Kebun Binatang</item>
+        <item>Tim Sepak Bola</item>
+        <item>Tim Bola Basket</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProjectCompany</string>
+    <string name="eUsername">Username</string>
+    <string name="ePassword">Password</string>
+    <string name="bLogin">Login</string>
+    <string name="Copyright">Rendy Hafiz Guspandy © 2022 \n IKIP PGRI PONTIANAK</string>
+    <string name="Welcome">Welcome To Rans!</string>
+    <string name="judul">Judul</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="product">Product</string>
+    <string name="profile">Profile</string>
+
+    <!-- Bagian Profil -->
+    <string name="profil">Profil</string>
+    <string name="alamat">Alamat</string>
+    <string name="founder">Founder</string>
+    <string name="vm">Visi Misi</string>
+    <string name="sejarah">Sejarah</string>
+    <string name="pencapaian">Pencapaian</string>
+
+</resources>
