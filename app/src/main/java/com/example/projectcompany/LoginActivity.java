@@ -12,8 +12,10 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
+import com.google.android.material.textfield.TextInputEditText;
+
 public class LoginActivity extends AppCompatActivity {
-    EditText eUser,ePass;
+    TextInputEditText eUser,ePass;
     ImageButton login;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
